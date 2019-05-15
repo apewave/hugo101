@@ -12,16 +12,7 @@
     
     
     <item>
-      <title>First Post</title>
-      <link>https://hugo101.netlify.com/tags/first-post/</link>
-      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
-      
-      <guid>https://hugo101.netlify.com/tags/first-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
+      <title>GitHub</title>
       <link>https://hugo101.netlify.com/tags/github/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
@@ -30,7 +21,16 @@
     </item>
     
     <item>
-      <title>Markdown</title>
+      <title>first post</title>
+      <link>https://hugo101.netlify.com/tags/first-post/</link>
+      <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
+      
+      <guid>https://hugo101.netlify.com/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
       <link>https://hugo101.netlify.com/tags/markdown/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Website</title>
+      <title>website</title>
       <link>https://hugo101.netlify.com/tags/website/</link>
       <pubDate>Mon, 18 Mar 2019 07:13:19 +0100</pubDate>
       
